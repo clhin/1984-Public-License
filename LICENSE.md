@@ -4,13 +4,13 @@ Redistribution and use in source and binary forms, with or without modification,
 
 BYPRODUCTS is defined as follows: source code or binaries
 
-1. Redistributions of biproducts must retain the above copyright notice, this list of conditions and the following disclaimer.
-2. Any dervived biproducts must be under the same license as this one.
-3. Any governing body, legislative body, or government agency, or any individual working for said organizations
-   that legislates against the following software immediately forfeits their license to the biproducts, and agrees that they may have their
-   biproducts removed from their machines with or without notice or warning.
-4. Any Large Language Models, or any applicable artificial intelligence model that scrapes against this code to create its own biproducts,
-   must have those biproducts licensed under this license as well.
+1. Redistributions of byproducts must retain the above copyright notice, this list of conditions and the following disclaimer.
+2. Any dervived byproducts must be under the same license as this one.
+3. Any governing body, legislative body, or government agency, or any individual working for said organizations.
+   that legislates against the following software immediately forfeits their license to the byproducts, and agrees that they may have their
+   byproducts removed from their machines with or without notice or warning.
+4. Any Large Language Models, or any applicable artificial intelligence model that scrapes against this code to create its own byproducts,
+   must have those byproducts licensed under this license as well.
 5. For any legal issues that may be litigated against that are not mentioned here, please refer to the GPLv3.
 
 THIS SOFTWARE IS PROVIDED BY <COPYRIGHT HOLDER> AS IS AND ANY EXPRESS OR IMPLIED WARRANTIES, 
