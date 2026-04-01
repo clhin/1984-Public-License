@@ -5,7 +5,7 @@ Redistribution and use in source and binary forms, with or without modification,
 BYPRODUCTS is defined as follows: source code or binaries
 
 1. Redistributions of byproducts must retain the above copyright notice, this list of conditions and the following disclaimer.
-2. Any dervived byproducts must be under the same license as this one.
+2. Any derived byproducts must be under the same license as this one.
 3. Any governing body, legislative body, or government agency, or any individual working for said organizations.
    that legislates against the following software immediately forfeits their license to the byproducts, and agrees that they may have their
    byproducts removed from their machines with or without notice or warning.
